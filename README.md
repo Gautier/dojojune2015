@@ -12,7 +12,7 @@ Team 2 wrote this little game at the June 2015 London Python Dojo.
 - `cd dojojune2015`
 - `pgzrun game.py`
 
-# Authors (if)
+# Authors
 
 - [Andrea Grandi](https://github.com/andreagrandi)
 - [Sandro Busonera](https://github.com/sandrobusonera)
